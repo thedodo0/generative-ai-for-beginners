@@ -1,0 +1,7 @@
+name: testenvironment
+channels:
+  - defaults
+dependencies:
+  - python=<python-version>
+  - openai
+  - python-dotenv
